@@ -1,1 +1,1 @@
-# exploratory-data-analysis-portfolio
+# introduction-to-EDA
